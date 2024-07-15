@@ -1,3 +1,3 @@
 # JS_Practice
 
-JavaScript 연습 중
+JavaScript 연습파일
